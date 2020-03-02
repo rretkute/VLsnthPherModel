@@ -1,12 +1,7 @@
-# The impact of synthetic sand fly pheromone traps on reducing transmission of zoonotic visceral leishmaniasis in rural and urban settings
-Renata Retkute1,2, Erin Dilger1,3, Hamilton JGC4, Matt Keeling1 and Orin Courtenay1,3
+# Visceral leishmaniasis transmission in rural and urban setting
 
-1 The Zeeman Institute for Systems Biology and Infectious Disease Epidemiology Re- search (SBIDER), The University of Warwick, CV4 7AL, UK 
+This is the source code for the mathematical model described in the following paper:
 
-2 Epidemiology and Modelling Group, Department of Plant Sciences, University of Cambridge, Cambridge, Cambridgeshire, CB2 3EA, UK
+Retkute R., Dilger E., Hamilton J.G.C., Keeling M., and Courtenay O. The impact of synthetic sand fly pheromone traps on reducing transmission of zoonotic visceral leishmaniasis in rural and urban settings
 
-3 School of Life Sciences, The University of Warwick, CV4 7AL, UK
-
-4 Division of Biomedical and Life Sciences, Faculty of Health and Medicine, Lancaster University, Bailrigg, Lancaster, Lancashire, LA1 4YG, UK
-
-### Abstract
+email: rr614@cam.ac.uk, orin.courtenay@warwick.ac.uk
